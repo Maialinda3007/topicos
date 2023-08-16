@@ -17,8 +17,8 @@
 }
 
 .topicos__lista {
-    display: flex; /*os elementos ficam em linha, um do lado do outro*/
-    flex-wrap: wrap; /*quebrar linha*/
+    display: flex; 
+    flex-wrap: wrap; 
     justify-content: center; /**/
     
 }
